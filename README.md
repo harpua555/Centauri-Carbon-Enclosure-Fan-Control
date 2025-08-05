@@ -25,4 +25,6 @@ SET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}
 Usage:
 To use this script, if you have python set up system-wide you can simply enter the direct path to the python script in the post processing scripts field.  Otherwise, this can be wrapped in a batch file.  I have included the .py and a sample .bat for reference.
 
+The included .bat assumes the .py file is saved in the directory C:\CC  -  either create this directory or modify the bat file to use your own location.
+
 *** USE AT YOUR OWN RISK, AND ALWAYS VERIFY GCODE OUTPUT SAFETY BEFORE PRINTING! ***
