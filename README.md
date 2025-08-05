@@ -28,3 +28,17 @@ To use this script, if you have python set up system-wide you can simply enter t
 The included .bat assumes the .py file is saved in the directory C:\CC  -  either create this directory or modify the bat file to use your own location.
 
 *** USE AT YOUR OWN RISK, AND ALWAYS VERIFY GCODE OUTPUT SAFETY BEFORE PRINTING! ***
+
+
+Screenshots:
+
+Calling the script from the post-processing section
+<img width="635" height="229" alt="image" src="https://github.com/user-attachments/assets/a72a88c8-2b6c-43a3-a85c-ed672dc4a64a" />
+
+Required machine gcode
+<img width="719" height="451" alt="image" src="https://github.com/user-attachments/assets/616b1df5-c147-4796-acb7-e06d3a7e565d" />
+
+Sample output
+<img width="571" height="149" alt="image" src="https://github.com/user-attachments/assets/c14f1d96-61a2-4e64-95fe-8641f500d3e9" />
+
+
